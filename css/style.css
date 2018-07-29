@@ -27,7 +27,6 @@ h4 {
 
 h4.amiable{
 background: linear-gradient(to right, #144a22, #44cc66);
-color: blue;
 }
 
 .amiable {
@@ -35,6 +34,11 @@ color: blue;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
 
+}
+
+
+h4.indifferent{
+background: linear-gradient(to right, #144a22, #dddd22);
 }
 
 .indifferent {
