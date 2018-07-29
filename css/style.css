@@ -2,7 +2,8 @@ body, html {
   background-image: url(../images/white-wood.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 600px;
+ max-width: 600px;
+  min-width: 400px;
   font-family: Apple Chancery, cursive;
   margin: 0 auto;
   display: block;
